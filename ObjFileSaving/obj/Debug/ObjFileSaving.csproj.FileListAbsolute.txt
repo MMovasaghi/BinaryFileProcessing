@@ -1,0 +1,7 @@
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\bin\Debug\ObjFileSaving.exe.config
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\bin\Debug\ObjFileSaving.exe
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\bin\Debug\ObjFileSaving.pdb
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\obj\Debug\ObjFileSaving.csproj.CoreCompileInputs.cache
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\obj\Debug\ObjFileSaving.exe
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\obj\Debug\ObjFileSaving.pdb
+F:\Visual_Programs\ObjFileSaving\ObjFileSaving\obj\Debug\ObjFileSaving.csprojResolveAssemblyReference.cache
