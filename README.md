@@ -9,7 +9,7 @@
 **Framework:** Console Application (.exe)
 <br />
 ## Description
-This App beta is written in C# using .NET features. This version is currently developed is Visual Studio 2017 on Windows.
+This app is written in C# using .NET features. This version is currently developed is Visual Studio 2017 on Windows.
 <br />
 > Note: This is a simple application can *add , delete , show* Users from a binary file. This is just for learnning.
 
