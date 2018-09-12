@@ -13,7 +13,6 @@ This App beta is written in C# using .NET features. This version is currently de
 <br />
 > Note: This is a simple application can *add , delete , show* Users from a binary file. This is just for learnning.
 
-<br />
 ### Featurs :
 **1.** Show All Data From File
 <br />
