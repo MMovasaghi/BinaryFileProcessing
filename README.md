@@ -12,14 +12,14 @@
 This App beta is written in C# using .NET features. This version is currently developed is Visual Studio 2017 on Windows.
 <br />
 ### Featurs :
-**1.** [Show All Data From File]
+**1.** Show All Data From File
 <br />
-**2.** [Delete All Users]
+**2.** Delete All Users
 <br />
-**3.** [Add Default User]
+**3.** Add Default User
 <br />
-**4.** [Add Specific User]
+**4.** Add Specific User
 <br />
-**5.** [Delete Specific Users]
+**5.** Delete Specific Users
 <br />
 
