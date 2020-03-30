@@ -6,7 +6,7 @@
 <br />
 **Written in:** C#
 <br />
-**Framework:** Console Application (.exe)
+**Framework:** .net Framework
 <br />
 ## Description
 This app is written in C# using .NET features. This version is currently developed is Visual Studio 2017 on Windows.
